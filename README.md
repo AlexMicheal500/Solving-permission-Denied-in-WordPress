@@ -1,0 +1,1 @@
+# Solving-permission-Denied-in-WordPress
